@@ -1,4 +1,1 @@
-[
-    { "Espresso": 3, "Milk": 1, "Water": 1, "Sugar": 1, "date": null },
-    { "Espresso": 3, "Milk": 1, "Water": 1, "Sugar": 1, "date": null }
-]
+[{"Espresso":4,"Milk":1,"Water":1,"Sugar":1,"date":null},{"Espresso":4,"Milk":1,"Water":1,"Sugar":1,"date":null},{"Espresso":1,"Milk":3,"Water":1,"Sugar":1,"date":null},{"Espresso":5,"Milk":3,"Water":1,"Sugar":2,"date":null},{"Espresso":3,"Milk":1,"Water":3,"Sugar":1,"date":null},{"Espresso":4,"Milk":1,"Water":3,"Sugar":1,"date":null}]
